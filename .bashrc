@@ -18,7 +18,7 @@ quotes=( #add more quotes if you want! or remove some.
     "The only winning move is not to play."
     "There are 10 types of people: those who understand binary and those who don't."
     "rm -rf / is not a personality trait."
-    "I use Arch, btw."
+    "I use Arch, btw." #99% chance anybody using the repo cant legally say this
     "The terminal is my happy place."
 )
 
